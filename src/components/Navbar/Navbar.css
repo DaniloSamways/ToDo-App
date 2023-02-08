@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #4056F4;
+  color: white;
+  padding: 1.5rem 6rem;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.navbar span {
+  color: #9BA6F7;
+}
